@@ -24,7 +24,8 @@ WHERE
   ```
 
 **Résultats**
-![[Pasted image 20230316105522.png]]
+
+![Pasted image 20230316105522.png](https://github.com/Zaccaria-Amillou/Data-Analyst-projets/blob/main/%C3%89tude%20march%C3%A9s%20immobilier/images/Pasted%20image%2020230316105522.png)
 
 **2. Le nombre de ventes d’appartement par région pour le 1er semestre
 2020**
@@ -51,7 +52,8 @@ ORDER BY count(id_vente) DESC
 ```
 
 **Résultats**
-![[Pasted image 20230316105549.png]]
+
+![Pasted image 20230316105549.png](https://github.com/Zaccaria-Amillou/Data-Analyst-projets/blob/main/%C3%89tude%20march%C3%A9s%20immobilier/images/Pasted%20image%2020230316105549.png)
 
 **3. Proportion des ventes d’appartements par le nombre de pièces.**
 ```sql
@@ -69,7 +71,8 @@ ORDER BY no_pieces ASC;
 ```
 
 **Résultats**
-![[Pasted image 20230316105638.png]]
+
+![Pasted image 20230316105638.png](https://github.com/Zaccaria-Amillou/Data-Analyst-projets/blob/main/%C3%89tude%20march%C3%A9s%20immobilier/images/Pasted%20image%2020230316105638.png?raw=true)
 
 **4. Liste des 10 départements où le prix du mètre carré est le plus élevé.**
 ```sql
@@ -90,7 +93,8 @@ LIMIT 10;
 ```
 
 **Résultats**
-![[Pasted image 20230316105738.png]]
+
+![Pasted image 20230316105738.png](https://github.com/Zaccaria-Amillou/Data-Analyst-projets/blob/main/%C3%89tude%20march%C3%A9s%20immobilier/images/Pasted%20image%2020230316105738.png?raw=true)
 
 
 **5. Prix moyen du mètre carré d’une maison en Île-de-France.**
@@ -108,7 +112,8 @@ AND type_local = 'Maison';
 ```
 
 **Résultats**
-![[Pasted image 20230316105758.png]]
+
+![[Pasted image 20230316105758.png]](https://github.com/Zaccaria-Amillou/Data-Analyst-projets/blob/main/%C3%89tude%20march%C3%A9s%20immobilier/images/Pasted%20image%2020230316105758.png?raw=true)
 
 **6. Liste des 10 appartements les plus chers avec la région et le nombre
 de mètres carrés.**
@@ -135,7 +140,8 @@ LIMIT 10;
 ```
 
 **Résultats**
-![[Pasted image 20230316105821.png]]
+
+![Pasted image 20230316105821.png](https://github.com/Zaccaria-Amillou/Data-Analyst-projets/blob/main/%C3%89tude%20march%C3%A9s%20immobilier/images/Pasted%20image%2020230316105821.png?raw=true)
 
 **7. Taux d’évolution du nombre de ventes entre le premier et le second
 trimestre de 2020.**
@@ -154,7 +160,8 @@ FROM trim1, trim2;
 ```
 
 **Résultats**
-![[Pasted image 20230316105848.png]]
+
+![image](https://user-images.githubusercontent.com/126714469/228474867-feadcd24-4fc2-4a29-8687-ff20bfc4caa8.png)
 
 **8. Le classement des régions par rapport au prix au mètre carré des
 appartement de plus de 4 pièces**
@@ -181,7 +188,8 @@ ORDER BY Prix_m2 DESC;
 ```
 
 **Résultats**
-![[Pasted image 20230316105922.png]]
+
+![image](https://user-images.githubusercontent.com/126714469/228475011-bb70acaa-fd7c-4c4b-8e06-4375bfb68b4a.png)
 
 **9. Liste des communes ayant eu au moins 50 ventes au 1er trimestre**
 ```sql
@@ -202,7 +210,8 @@ ORDER BY ventes ASC;
 ```
 
 **Résultats**
-![[Pasted image 20230316105955.png]]
+
+![image](https://user-images.githubusercontent.com/126714469/228475129-804c4ca6-2c4c-448b-91a9-1f169130b636.png)
 
 **10. Différence en pourcentage du prix au mètre carré entre un
 appartement de 2 pièces et un appartement de 3 pièces.**
@@ -235,7 +244,8 @@ SELECT
  FROM 2pieces,3pieces;
 ```
 **Résultats**
-![[Pasted image 20230316110020.png]]
+
+![image](https://user-images.githubusercontent.com/126714469/228475240-faa83421-8cef-44cf-bcfa-089817b32dfb.png)
 
 **11. Les moyennes de valeurs foncières pour le top 3 des communes des
 départements 6, 13, 33, 59 et 69.**
@@ -266,7 +276,8 @@ GROUP BY departement, Commune
 ```
 
 **Résultats**
-![[Pasted image 20230316110042.png]]
+
+![image](https://user-images.githubusercontent.com/126714469/228475291-f8d48b99-9c1d-42bd-9b99-bf2b9a73f7b0.png)
 
 **12.  Les 20 communes avec le plus de transactions pour 1000 habitants
 pour les communes qui dépassent les 10 000 habitants.**
@@ -290,4 +301,6 @@ LIMIT 20;
 ```
 
 **Résultats**
-![[Pasted image 20230316110104.png]]
+
+![image](https://user-images.githubusercontent.com/126714469/228475351-0334e88f-89e6-49b2-9376-59ab6032fc3f.png)
+
