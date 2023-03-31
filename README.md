@@ -10,4 +10,6 @@ Vous trouverez principalement des projets réalisés en **SQL** et **Python**.
 
 :corn: [Étude santé](https://github.com/Zaccaria-Amillou/Data-Analyst-projets/blob/main/%C3%89tude%20de%20sant%C3%A9/Projet%204.ipynb) - Python
 
-:books: [Analyse ventes librairie](https://github.com/Zaccaria-Amillou/Data-Analyst-projets/blob/main/Analyse%20ventes%20librairie/Projet%205%20-%20Def.ipynb) - Python
+:wine_glass: [Optmisation gestion des données d'une boutique](https://github.com/Zaccaria-Amillou/Data-Analyst-projets/blob/main/Analyse%20ventes%20librairie/Projet%205%20-%20Def.ipynb) - Python
+
+:chart_with_upwards_trend: [Analyse ventes librarie]() - Python
