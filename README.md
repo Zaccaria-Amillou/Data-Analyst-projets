@@ -12,4 +12,4 @@ Vous trouverez principalement des projets réalisés en **SQL** et **Python**.
 
 :wine_glass: [Optmisation gestion des données d'une boutique](https://github.com/Zaccaria-Amillou/Data-Analyst-projets/blob/main/Optimisation%20gestion%20donn%C3%A9es%20boutique/Projet%205%20-%20Def.ipynb) - Python
 
-:chart_with_upwards_trend: [Analyse ventes librarie]() - Python
+:chart_with_upwards_trend: [Analyse ventes librarie](https://github.com/Zaccaria-Amillou/Data-Analyst-projets/blob/main/Analyse%20Ventes%20Librarie/Projet%206%20Def.ipynb) - Python
