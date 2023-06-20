@@ -11,7 +11,7 @@
 <h4><p align="center">Voici les projets que j'ai réalisé lors de ma formation en Data Analyst (actuellement en cours). </p></h4>
 </br>
 
-<h3><p align="Center"> <a href="https://github.com/Zaccaria-Amillou/Data-Analyst-projets/blob/main/%C3%89tude%20march%C3%A9s%20immobilier/%C3%89tude%20march%C3%A9s%20immobilier.md" title="Etude marchés immobilier">:house_with_garden: Étude marchés immobilier - My SQL</a> </p></h3>
+<h3><p align="Center"> <a href="https://github.com/Zaccaria-Amillou/Data-Analyst-projets/blob/main/%C3%89tude%20march%C3%A9s%20immobilier/%C3%89tude%20march%C3%A9s%20immobilier.md" title="Etude marchés immobilier">:house_with_garden: Étude marché immobilier - My SQL</a> </p></h3>
 <h3><p align="Center"> <a href="https://github.com/Zaccaria-Amillou/Data-Analyst-projets/blob/main/%C3%89tude%20de%20sant%C3%A9/Projet%204.ipynb" title="Etude marchés immobilier">:corn: Étude santé - Python</a> </p></h3>
 <h3><p align="Center"> <a href="https://github.com/Zaccaria-Amillou/Data-Analyst-projets/blob/main/Optimisation%20gestion%20donn%C3%A9es%20boutique/Projet%205%20-%20Def.ipynb" title="Etude marchés immobilier">:wine_glass: Optmisation gestion des données d'une boutique - Python</a> </p></h3>
 <h3><p align="Center"> <a href="https://github.com/Zaccaria-Amillou/Data-Analyst-projets/blob/main/Analyse%20Ventes%20Librarie/Projet%206%20Def.ipynb" title="Etude marchés immobilier">:chart_with_upwards_trend: Analyse ventes librarie - Python </a> </p></h3>
