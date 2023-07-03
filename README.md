@@ -17,6 +17,7 @@
 <h3><p align="Center"> <a href="https://github.com/Zaccaria-Amillou/Data-Analyst-projets/blob/main/Analyse%20Ventes%20Librarie/Projet%206%20Def.ipynb" title="Etude marchés immobilier">:chart_with_upwards_trend: Analyse ventes librarie - Python </a> </p></h3>
 <h3><p align="Center"> <a href="https://github.com/Zaccaria-Amillou/Data-Analyst-projets-formation/blob/main/%C3%89tude%20de%20march%C3%A9/Nettoyage%20Donn%C3%A9es.ipynb" title="Etude marchés immobilier">:chicken: : Etude de marché poulet 1 - Nettoyage données- Python <br>  </a> </p></h3>
 <h3><p align="Center"> <a href="https://github.com/Zaccaria-Amillou/Data-Analyst-projets-formation/blob/main/%C3%89tude%20de%20march%C3%A9/Analyse%20Donn%C3%A9es.ipynb" title="Etude marchés immobilier">:chicken: : Etude de marché poulet 2 - Analyse des données - Python <br>  <br>  </a> </p></h3>
+<h3><p align="Center"> <a href="https://github.com/Zaccaria-Amillou/Data-Analyst-projets-formation/blob/main/Detecter%20Faux%20billets/Detecter%20faux%20billet.ipynb" title="Detecter faux billets">💵: Modele Machine Learnig pour Détecter faux billets - Python</a> </p></h3>
 
 </br>
 </br>
