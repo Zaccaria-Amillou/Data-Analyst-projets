@@ -8,7 +8,7 @@
 
 <p align='center'><img alt="Codage" width="400" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/media/a527f691d3c789ed7618f1c3edea804c.gif"></p>
 
-<h4><p align="center">Voici les projets que j'ai réalisé lors de ma formation en Data Analyst (actuellement en cours). </p></h4>
+<h4><p align="center">Voici les projets que j'ai réalisé lors de ma formation en Data Analyst. </p></h4>
 </br>
 
 <h3><p align="Center"> <a href="https://github.com/Zaccaria-Amillou/Data-Analyst-projets/blob/main/%C3%89tude%20march%C3%A9s%20immobilier/%C3%89tude%20march%C3%A9s%20immobilier.md" title="Etude marchés immobilier">:house_with_garden: Étude marché immobilier - My SQL</a> </p></h3>
